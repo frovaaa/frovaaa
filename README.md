@@ -4,9 +4,18 @@ I'm a passionate full-stack developer 🧑‍💻 and robotics nerd 🤖.
 
 I love building complex systems, turning creative ideas into working products, and pushing my skills across the full stack ✨.
 
-💼 Currently working on **NFT marketplaces** 🎨 and exploring new ways to blend design, interaction, and decentralization.  
+🤖 Currently working on Human–Robot Interaction, with a focus on social robots, children, and learning — exploring how interaction design can support engaging and meaningful educational experiences.  
 🎓 Informatics student at **USI Lugano** 🇨🇭 with a deep love for teaching 👨‍🏫 and research 📚.  
 🚀 Always curious, always building — especially when there's a challenge involved.
+
+## 📚 Publications
+
+- **[A Wizard for Kids: A Platform for Improvised Child–Robot Interactions](https://doi.org/10.1145/3757279.3788810)** — ACM/IEEE HRI 2026 🤖  
+  *Davide Frova, Monica Landoni, Simone Arreghini, Antonio Paolillo*  
+  [💻 Code & platform](https://github.com/idsia-robotics/wizard-for-kids)
+
+- **[Cuteness Under the Skin: Exploring Child–Robot Interaction in Classrooms](https://www.researchgate.net/publication/410777646_Cuteness_Under_the_Skin_Exploring_Child-Robot_Interaction_in_Classrooms)** — HFR 2026 🧸🤖  
+  *Shana Dedò, Davide Frova, Antonio Paolillo, Monica Landoni*
 
 Let’s connect and create something awesome together! 🤝
 
